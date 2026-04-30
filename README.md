@@ -4,7 +4,7 @@
 
 ---
 
-Automates Follow-up Emails is a Python-based automation tool that integrates with Microsoft Outlook to intelligently track and manage follow-up emails sent from your account. The application automatically monitors flagged emails in your Outlook Sent Items folder and sends scheduled follow-up messages to recipients who haven't responded after a specified period. Using a CSV-based tracking system, it maintains a record of all flagged emails and automatically sends reminders at defined intervals (default: 1 hour), helping you stay on top of important communications without manual intervention. The tool also detects when recipients respond before the automated follow-up is sent and removes them from the tracking list.
+Automates Follow-up Emails is a Python-based automation tool that integrates with Microsoft Outlook to intelligently track and manage follow-up emails sent from your account. The application automatically monitors flagged emails in your Outlook Sent Items folder and sends scheduled follow-up messages to recipients who haven't responded after a specified period. Using a CSV-based tracking system, it maintains a record of all flagged emails and automatically sends reminders at defined intervals (default: 7 days), helping you stay on top of important communications without manual intervention. The tool also detects when recipients respond before the automated follow-up is sent and removes them from the tracking list.
 
 ---
 
