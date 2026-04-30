@@ -1,4 +1,4 @@
-# Automates Follow-up Emails
+# Email-automation
 
 ## Description
 
